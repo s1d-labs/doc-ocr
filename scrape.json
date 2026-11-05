@@ -1,13 +1,11 @@
 {
   "family": "doc-ocr",
-  "about": "Read scanned public documents with OCR",
+  "about": "Read scanned public documents with OCR. The input is a list of signed links. The output is one text file per document.",
   "setup": [
+    "sudo apt-get install -y -qq tesseract-ocr poppler-utils",
     "pip install -r requirements.txt"
   ],
   "tasks": {
-    "crawl": [
-      "python",
-      "crawl.py"
-    ]
+    "ocr": ["python", "ocr.py"]
   }
 }
