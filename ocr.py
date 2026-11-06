@@ -58,7 +58,8 @@ def main():
         p = it["payload"]
         start = time.time()
         try:
-            r = requests.get(p["url"], timeout=(30, 600))
+            head = {"Range": f"bytes={p['offset']}-{p['offset'] + p['length'] - 1}"} if p.get("length") else {}     # one file inside a tender's bundle
+            r = requests.get(p["url"], headers=head, timeout=(30, 600))
             r.raise_for_status()
             with tempfile.NamedTemporaryFile(suffix=".pdf") as f:
                 f.write(r.content)

@@ -3,4 +3,5 @@ import json
 from pathlib import Path
 
 FAMILY = json.loads((Path(__file__).parent / "scrape.json").read_text())["family"]
-PROJECTS = [{"name": f"{FAMILY}-dda-papers", "title": "DDA Authority and Technical Committee papers", "task": "ocr", "unit_label": "document", "record_label": "document read"}]
+PROJECTS = [{"name": f"{FAMILY}-dda-papers", "title": "DDA Authority and Technical Committee papers", "task": "ocr", "unit_label": "document", "record_label": "document read"},
+            {"name": f"{FAMILY}-city", "title": "Tender documents of the city ledgers", "task": "ocr", "unit_label": "document", "record_label": "document read"}]
