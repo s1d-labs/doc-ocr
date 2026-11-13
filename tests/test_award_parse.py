@@ -43,3 +43,9 @@ def test_document_of_another_tender_is_refused():
 
 def test_no_l1_in_free_text():
     assert check(parse_text("Two bids received and accepted.\nSignature Not Verified"), "2014_PWDJK_13335_1") == "no_l1"
+
+
+def test_bid_id_suffix_is_removed():
+    from award_parse import clean_name
+    assert clean_name("MS SILAICH CONSTRUCTION CO (BID ID -3648867)") == "MS SILAICH CONSTRUCTION CO"
+    assert clean_name("SHARMA CONSTRUCTION(GSTN-NA)") == "SHARMA CONSTRUCTION"

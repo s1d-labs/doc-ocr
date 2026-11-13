@@ -23,7 +23,7 @@ def money(s):
 
 
 def clean_name(s):
-    s = re.sub(r"\(GSTN[^)]*\)", "", str(s))
+    s = re.sub(r"\(GSTN[^)]*\)|\(\s*BID\s*ID\s*-?\s*\d+\s*\)", "", str(s), flags=re.I)
     s = re.sub(r"\s+", " ", s).strip(" .,:-")
     return s
 
