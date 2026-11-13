@@ -5,5 +5,5 @@ from family import FAMILY, PROJECTS
 
 for p in PROJECTS:
     register_project(p["name"], title=p["title"], unit_label=p["unit_label"], record_label=p["record_label"])
-    set_pool(p["name"], FAMILY, p["task"], target=f"{p['name']}.ocr.local", geo="", max_workers=60, threads=1, delay_ms=0)
+    set_pool(p["name"], FAMILY, p["task"], target=f"{p['name']}.ocr.local", geo="", max_workers=p.get("max_workers", 60), threads=1, delay_ms=0)
     print(p["name"], "ready")

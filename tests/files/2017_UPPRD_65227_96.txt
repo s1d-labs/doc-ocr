@@ -1,0 +1,268 @@
+     Tnder ID         Sl.No                   Bidder Name              Amount       Bid Rank   Status    Reason
+
+                       1      Kapil Kumar                              1256246.30     L1       Accept   Due To L1
+2017_UPPRD_65227_5
+                       2      Satish Kumar Singh                       1282653.88     L2       Reject   Due To L2
+                       1      Kapil Kumar                              1070146.63     L1       Accept   Due To L1
+2017_UPPRD_65227_6
+                       2      Satish Kumar Singh                       1092642.21     L2       Reject   Due To L2
+                       1      Kapil Kumar                              1070146.63     L1       Accept   Due To L1
+2017_UPPRD_65227_7
+                       2      Satish Kumar Singh                       1092642.21     L2       Reject   Due To L2
+                       1      Kapil Kumar                               957028.35     L1       Accept   Due To L1
+2017_UPPRD_65227_8
+                       2      Satish Kumar Singh                        977146.07     L2       Reject   Due To L2
+                       1      S.S. CONSTRUCTION                        1635596.21     L1       Accept   Due To L1
+2017_UPPRD_65227_12
+                       2      DAN BIHARI CONSTRUCTION COMPANY          1670145.30     L2       Reject   Due To L2
+                       1      S.S. CONSTRUCTION                        1432106.80     L1       Accept   Due To L1
+2017_UPPRD_65227_13
+                       2      DAN BIHARI CONSTRUCTION COMPANY          1464925.02     L2       Reject   Due To L2
+                       1      Satish Kumar Singh                       1226594.91     L1       Accept   Due To L1
+2017_UPPRD_65227_16
+                       2      Kapil Kumar                              1251251.93     L2       Reject   Due To L2
+                       1      Satish Kumar Singh                        749381.37     L1       Accept   Due To L1
+2017_UPPRD_65227_17
+                       2      Kapil Kumar                               772635.45     L2       Reject   Due To L2
+                       1      S.S. CONSTRUCTION                        1330271.89     L1       Accept   Due To L1
+2017_UPPRD_65227_20
+                       2      DAN BIHARI CONSTRUCTION COMPANY          1349193.92     L2       Reject   Due To L2
+                       1      M/S Nandan Singh Thekedar                1134379.83     L1       Accept   Due To L1
+2017_UPPRD_65227_21
+                       2      DAN BIHARI CONSTRUCTION COMPANY          1157993.82     L2       Reject   Due To L2
+                       1      SHRI BANKEY BIHARI CONSTRUCTION           519466.18     L1       Accept   Due To L1
+2017_UPPRD_65227_23
+                       2      M/S Akashdeep Construction Co.            524765.79     L2       Reject   Due To L2
+                       1      M/S Nandan Singh Thekedar                1342127.07     L1       Accept   Due To L1
+2017_UPPRD_65227_24
+                       2      DAN BIHARI CONSTRUCTION COMPANY          1344278.35     L2       Reject   Due To L2
+                       1      M/S Nandan Singh Thekedar                1033654.85     L1       Accept   Due To L1
+2017_UPPRD_65227_25
+                       2      DAN BIHARI CONSTRUCTION COMPANY          1036346.66     L2       Reject   Due To L2
+                       1      M/S R.L.A. Construction                  1463105.00     L1       Accept   Due To L1
+2017_UPPRD_65227_27
+                       2      M/S Akashdeep Construction Co.           1463397.71     L2       Reject   Due To L2
+                       1      M/S R.L.A. Construction                  1255427.93     L1       Accept   Due To L1
+2017_UPPRD_65227_28
+                       2      M/S Akashdeep Construction Co.           1255679.09     L2       Reject   Due To L2
+                       1      M/S R.L.A. Construction                  1527955.28     L1       Accept   Due To L1
+2017_UPPRD_65227_30
+                       2      M/S Akashdeep Construction Co.           1528260.96     L2       Reject   Due To L2
+                       1      BHIKKI LAL                                954683.14     L1       Accept   Due To L1
+2017_UPPRD_65227_34
+                       2      CHIRANJI LAL GOLA THEKEDAR                975728.26     L2       Reject   Due To L2
+                       1      SURAJ                                    1227546.44     L1       Accept   Due To L1
+2017_UPPRD_65227_36
+                       2      M/S Shri Krishna Contractor & Supplier   1228037.56     L2       Reject   Due To L2
+                       1      BHIKKI LAL                                808213.57     L1       Accept   Due To L1
+2017_UPPRD_65227_37
+                       2      CHIRANJI LAL GOLA THEKEDAR                826029.90     L2       Reject   Due To L2
+                       1      BHIKKI LAL                                486392.70     L1       Accept   Due To L1
+2017_UPPRD_65227_38
+      Tnder ID        Sl.No                  Bidder Name               Amount       Bid Rank   Status    Reason
+2017_UPPRD_65227_38
+                       2      CHIRANJI LAL GOLA THEKEDAR                496617.17     L2       Reject   Due To L2
+                       1      CHIRANJI LAL GOLA THEKEDAR               1612963.71     L1       Accept   Due To L1
+2017_UPPRD_65227_39
+                       2      BHIKKI LAL                               1648520.02     L2       Reject   Due To L2
+                       1      CHIRANJI LAL GOLA THEKEDAR               1321871.16     L1       Accept   Due To L1
+2017_UPPRD_65227_40
+                       2      BHIKKI LAL                               1351010.60     L2       Reject   Due To L2
+                       1      DAN BIHARI CONSTRUCTION COMPANY           851054.41     L1       Accept   Due To L1
+2017_UPPRD_65227_46
+                       2      S.S. CONSTRUCTION                         853101.65     L2       Reject   Due To L2
+                       1      DAN BIHARI CONSTRUCTION COMPANY          1165620.21     L1       Accept   Due To L1
+2017_UPPRD_65227_47
+                       2      S.S. CONSTRUCTION                        1168072.67     L2       Reject   Due To L2
+                       1      DAN BIHARI CONSTRUCTION COMPANY          1147333.20     L1       Accept   Due To L1
+2017_UPPRD_65227_48
+                       2      S.S. CONSTRUCTION                        1148825.78     L2       Reject   Due To L2
+                       1      M/S Nandan Singh Thekedar                 744020.84     L1       Accept   Due To L1
+2017_UPPRD_65227_52
+                       2      DAN BIHARI CONSTRUCTION COMPANY           744690.86     L2       Reject   Due To L2
+                       1      CHIRANJI LAL GOLA THEKEDAR               1248262.11     L1       Accept   Due To L1
+2017_UPPRD_65227_53
+                       2      BHIKKI LAL                               1288286.55     L2       Reject   Due To L2
+                       1      M/S R.L.A. Construction                  1627814.89     L1       Accept   Due To L1
+2017_UPPRD_65227_54
+                       2      M/S Akashdeep Construction Co.           1628140.55     L2       Reject   Due To L2
+                       1      M/S R.L.A. Construction                  1519658.29     L1       Accept   Due To L1
+2017_UPPRD_65227_55
+                       2      M/S Akashdeep Construction Co.           1519962.31     L2       Reject   Due To L2
+                       1      Satish Kumar Singh                       1102530.65     L1       Accept   Due To L1
+2017_UPPRD_65227_57
+                       2      Kapil Kumar                              1125706.97     L2       Reject   Due To L2
+                       1      Satish Kumar Singh                       1064798.36     L1       Accept   Due To L1
+2017_UPPRD_65227_58
+                       2      Kapil Kumar                              1087181.50     L2       Reject   Due To L2
+                       1      SHRI BANKEY BIHARI CONSTRUCTION          1205617.21     L1       Accept   Due To L1
+2017_UPPRD_65227_60
+                       2      M/S Akashdeep Construction Co.           1218159.39     L2       Reject   Due To L2
+                       1      SHRI BANKEY BIHARI CONSTRUCTION          1201073.16     L1       Accept   Due To L1
+2017_UPPRD_65227_61
+                       2      M/S Akashdeep Construction Co.           1207682.37     L2       Reject   Due To L2
+                       1      SHRI BANKEY BIHARI CONSTRUCTION          1209155.99     L1       Accept   Due To L1
+2017_UPPRD_65227_62
+                       2      M/S Akashdeep Construction Co.           1214598.83     L2       Reject   Due To L2
+                       1      SHRI BANKEY BIHARI CONSTRUCTION          1207985.46     L1       Accept   Due To L1
+2017_UPPRD_65227_63
+                       2      M/S Akashdeep Construction Co.           1209919.01     L2       Reject   Due To L2
+                       1      SHRI BANKEY BIHARI CONSTRUCTION           977548.82     L1       Accept   Due To L1
+2017_UPPRD_65227_64
+                       2      M/S Akashdeep Construction Co.            978526.76     L2       Reject   Due To L2
+                       1      M/S R.L.A. Construction                  1201428.19     L1       Accept   Due To L1
+2017_UPPRD_65227_65
+                       2      M/S Akashdeep Construction Co.           1201548.37     L2       Reject   Due To L2
+                       1      M/S R.L.A. Construction                  1203002.72     L1       Accept   Due To L1
+2017_UPPRD_65227_66
+                       2      M/S Akashdeep Construction Co.           1203243.39     L2       Reject   Due To L2
+                       1      M/S Shri Krishna Contractor & Supplier   1363369.77     L1       Accept   Due To L1
+2017_UPPRD_65227_70
+                       2      SURAJ                                    1364733.83     L2       Reject   Due To L2
+     Tnder ID         Sl.No                   Bidder Name              Amount       Bid Rank   Status    Reason
+
+                       1      M/S Shri Krishna Contractor & Supplier    699457.21     L1       Accept   Due To L1
+2017_UPPRD_65227_71
+                       2      SURAJ                                     720585.04     L2       Reject   Due To L2
+                       1      DAN BIHARI CONSTRUCTION COMPANY          1109718.77     L1       Accept   Due To L1
+2017_UPPRD_65227_72
+                       2      S.S. CONSTRUCTION                        1135381.50     L2       Reject   Due To L2
+                       1      DAN BIHARI CONSTRUCTION COMPANY          1065217.25     L1       Accept   Due To L1
+2017_UPPRD_65227_73
+                       2      S.S. CONSTRUCTION                        1078768.54     L2       Reject   Due To L2
+                       1      SHRI BANKEY BIHARI CONSTRUCTION           511606.10     L1       Accept   Due To L1
+2017_UPPRD_65227_74
+                       2      M/S Akashdeep Construction Co.            512373.74     L2       Reject   Due To L2
+                       1      SURAJ                                     998231.34     L1       Accept   Due To L1
+2017_UPPRD_65227_75
+                       2      M/S Shri Krishna Contractor & Supplier    999030.17     L2       Reject   Due To L2
+                       1      SURAJ                                     992032.45     L1       Accept   Due To L1
+2017_UPPRD_65227_76
+                       2      M/S Shri Krishna Contractor & Supplier   1002153.21     L2       Reject   Due To L2
+                       1      SURAJ                                    1328676.53     L1       Accept   Due To L1
+2017_UPPRD_65227_77
+                       2      M/S Shri Krishna Contractor & Supplier   1355928.02     L2       Reject   Due To L2
+                       1      M/S R.L.A. Construction                   893999.09     L1       Accept   Due To L1
+2017_UPPRD_65227_78
+                       2      M/S Akashdeep Construction Co.            894177.94     L2       Reject   Due To L2
+                       1      M/S R.L.A. Construction                  1094867.64     L1       Accept   Due To L1
+2017_UPPRD_65227_79
+                       2      M/S Akashdeep Construction Co.           1095086.68     L2       Reject   Due To L2
+                       1      M/S R.L.A. Construction                   876693.87     L1       Accept   Due To L1
+2017_UPPRD_65227_80
+                       2      M/S Akashdeep Construction Co.            876869.26     L2       Reject   Due To L2
+                       1      M/S R.L.A. Construction                   930133.52     L1       Accept   Due To L1
+2017_UPPRD_65227_81
+                       2      M/S Akashdeep Construction Co.            930319.60     L2       Reject   Due To L2
+                       1      M/S Shri Krishna Contractor & Supplier   1957248.32     L1       Accept   Due To L1
+2017_UPPRD_65227_82
+                       2      DAN BIHARI CONSTRUCTION COMPANY          1957444.44     L2       Reject   Due To L2
+                       1      M/S R.L.A. Construction                  1090868.24     L1       Accept   Due To L1
+2017_UPPRD_65227_83
+                       2      M/S Akashdeep Construction Co.           1091086.48     L2       Reject   Due To L2
+                       1      S.S. CONSTRUCTION                        1592233.29     L1       Accept   Due To L1
+2017_UPPRD_65227_84
+                       2      DAN BIHARI CONSTRUCTION COMPANY          1640975.13     L2       Reject   Due To L2
+                       1      M/S R.L.A. Construction                  1697855.26     L1       Accept   Due To L1
+2017_UPPRD_65227_85
+                       2      M/S Akashdeep Construction Co.           1698194.93     L2       Reject   Due To L2
+                       1      M/S R.L.A. Construction                  1379416.37     L1       Accept   Due To L1
+2017_UPPRD_65227_86
+                       2      M/S Akashdeep Construction Co.           1379692.34     L2       Reject   Due To L2
+                       1      DAN BIHARI CONSTRUCTION COMPANY          1235345.93     L1       Accept   Due To L1
+2017_UPPRD_65227_87
+                       2      S.S. CONSTRUCTION                        1248698.35     L2       Reject   Due To L2
+                       1      DAN BIHARI CONSTRUCTION COMPANY          1229793.94     L1       Accept   Due To L1
+2017_UPPRD_65227_88
+                       2      S.S. CONSTRUCTION                        1232381.43     L2       Reject   Due To L2
+                       1      M/S R.L.A. Construction                  1001741.84     L1       Accept   Due To L1
+2017_UPPRD_65227_89
+                       2      M/S Akashdeep Construction Co.           1001942.25     L2       Reject   Due To L2
+                       1      S.S. CONSTRUCTION                         869993.54     L1       Accept   Due To L1
+2017_UPPRD_65227_90
+      Tnder ID         Sl.No                  Bidder Name               Amount       Bid Rank   Status    Reason
+2017_UPPRD_65227_90
+                        2      DAN BIHARI CONSTRUCTION COMPANY           871038.89     L2       Reject   Due To L2
+                        1      M/S R.L.A. Construction                  1336145.04     L1       Accept   Due To L1
+2017_UPPRD_65227_91
+                        2      M/S Akashdeep Construction Co.           1336412.35     L2       Reject   Due To L2
+                        1      DAN BIHARI CONSTRUCTION COMPANY          1731892.47     L1       Accept   Due To L1
+2017_UPPRD_65227_92
+                        2      S.S. CONSTRUCTION                        1784563.07     L2       Reject   Due To L2
+                        1      DAN BIHARI CONSTRUCTION COMPANY          1680732.70     L1       Accept   Due To L1
+2017_UPPRD_65227_93
+                        2      S.S. CONSTRUCTION                        1716578.91     L2       Reject   Due To L2
+                        1      DAN BIHARI CONSTRUCTION COMPANY          1632427.00     L1       Accept   Due To L1
+2017_UPPRD_65227_94
+                        2      S.S. CONSTRUCTION                        1634714.00     L2       Reject   Due To L2
+                        1      DAN BIHARI CONSTRUCTION COMPANY          1679143.36     L1       Accept   Due To L1
+2017_UPPRD_65227_95
+                        2      S.S. CONSTRUCTION                        1686886.00     L2       Reject   Due To L2
+                        1      SHRI BANKEY BIHARI CONSTRUCTION          1732594.19     L1       Accept   Due To L1
+2017_UPPRD_65227_96
+                        2      M/S Akashdeep Construction Co.           1802619.00     L2       Reject   Due To L2
+                        1      SHRI BANKEY BIHARI CONSTRUCTION          1583689.37     L1       Accept   Due To L1
+2017_UPPRD_65227_97
+                        2      M/S Akashdeep Construction Co.           1584164.67     L2       Reject   Due To L2
+                        1      SHRI BANKEY BIHARI CONSTRUCTION          1876619.85     L1       Accept   Due To L1
+2017_UPPRD_65227_99
+                        2      M/S Akashdeep Construction Co.           1876995.28     L2       Reject   Due To L2
+                        1      SHRI BANKEY BIHARI CONSTRUCTION           940698.42     L1       Accept   Due To L1
+2017_UPPRD_65227_100
+                        2      M/S Akashdeep Construction Co.            941074.88     L2       Reject   Due To L2
+                        1      S.S. CONSTRUCTION                        1817321.95     L1       Accept   Due To L1
+2017_UPPRD_65227_101
+                        2      DAN BIHARI CONSTRUCTION COMPANY          1836778.97     L2       Reject   Due To L2
+                        1      S.S. CONSTRUCTION                        1726808.55     L1       Accept   Due To L1
+2017_UPPRD_65227_102
+                        2      DAN BIHARI CONSTRUCTION COMPANY          1728363.92     L2       Reject   Due To L2
+                        1      DAN BIHARI CONSTRUCTION COMPANY          1197992.36     L1       Accept   Due To L1
+2017_UPPRD_65227_103
+                        2      S.S. CONSTRUCTION                        1199551.93     L2       Reject   Due To L2
+                        1      M/S R.L.A. Construction                  1945737.10     L1       Accept   Due To L1
+2017_UPPRD_65227_105
+                        2      M/S Akashdeep Construction Co.           1946126.37     L2       Reject   Due To L2
+                        1      CHIRANJI LAL GOLA THEKEDAR               1956208.92     L1       Accept   Due To L1
+2017_UPPRD_65227_106
+                        2      BHIKKI LAL                               1999331.76     L2       Reject   Due To L2
+                        1      DAN BIHARI CONSTRUCTION COMPANY          1131055.13     L1       Accept   Due To L1
+2017_UPPRD_65227_107
+                        2      M/S Nandan Singh Thekedar                1165103.30     L2       Reject   Due To L2
+                        1      DAN BIHARI CONSTRUCTION COMPANY          1189142.62     L1       Accept   Due To L1
+2017_UPPRD_65227_108
+                        2      S.S. CONSTRUCTION                        1213168.11     L2       Reject   Due To L2
+                        1      DAN BIHARI CONSTRUCTION COMPANY          1131652.60     L1       Accept   Due To L1
+2017_UPPRD_65227_109
+                        2      S.S. CONSTRUCTION                        1132218.77     L2       Reject   Due To L2
+                        1      M/S Shri Krishna Contractor & Supplier   1191603.41     L1       Accept   Due To L1
+2017_UPPRD_65227_118
+                        2      SURAJ                                    1215800.22     L2       Reject   Due To L2
+                        1      M/S R.L.A. Construction                  1683042.54     L1       Accept   Due To L1
+2017_UPPRD_65227_120
+                        2      M/S Akashdeep Construction Co.           1683210.89     L2       Reject   Due To L2
+      Tnder ID         Sl.No                  Bidder Name        Amount       Bid Rank    Status       Reason
+
+                        1      SHRI BANKEY BIHARI CONSTRUCTION   1104108.67      L1      Accept       Due To L1
+2017_UPPRD_65227_121
+                        2      M/S Akashdeep Construction Co.    1137794.09      L2       Reject      Due To L2
+                        1      SHRI BANKEY BIHARI CONSTRUCTION   1100814.32      L1      Accept       Due To L1
+2017_UPPRD_65227_122
+                        2      M/S Akashdeep Construction Co.    1101254.86      L2       Reject      Due To L2
+                        1      M/S R.L.A. Construction           1588340.79      L1      Accept       Due To L1
+2017_UPPRD_65227_123
+                        2      M/S Akashdeep Construction Co.    1588499.68      L2       Reject      Due To L2
+                        1      M/S R.L.A. Construction            869814.14      L1      Accept       Due To L1
+2017_UPPRD_65227_124
+                        2      M/S Akashdeep Construction Co.     869988.15      L2       Reject      Due To L2
+                        1      DAN BIHARI CONSTRUCTION COMPANY    288256.83      L1      Accept       Due To L1
+2017_UPPRD_65227_125
+                        2      S.S. CONSTRUCTION                  294463.66      L2       Reject      Due To L2
+
+
+
+
+                                                                   Signature Not Verified
+                                                                   Digitally signed by NAEEM AKHTAR
+                                                                   Date: 2017.06.13 22:02:38 IST
+                                                                   Location: Uttar Pradesh
+

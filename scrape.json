@@ -6,6 +6,7 @@
     "pip install -r requirements.txt"
   ],
   "tasks": {
-    "ocr": ["python", "ocr.py"]
+    "ocr": ["python", "ocr.py"],
+    "awards": ["python", "awards.py"]
   }
 }
