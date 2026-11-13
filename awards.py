@@ -4,7 +4,8 @@
 A queue item names the GePNIC project (target), the tender (rid) and its stored documents (key, byte range, type), best first:
 BOQ comparative charts (xlsx / xls), then financial evaluation summaries (pdf). The task asks the hub for a short-lived link at
 claim time, reads each document by byte range, and stops at the first document that names the L1 bidder with an amount.
-A pdf without a text layer goes through tesseract (first pages only). Rules only, no AI. One record per tender.
+A pdf without a text layer goes through tesseract (first pages) only when the item says "ocr": true: in the
+300-tender pilot (2026-11-13) OCR read 29 such pdfs and found 0 L1 bidders, so it is off by default. Rules only, no AI. One record per tender.
 """
 import os
 import subprocess
@@ -27,12 +28,12 @@ def letters(s):
     return sum(c.isascii() and c.isalpha() for c in s)
 
 
-def pdf_text(data):
+def pdf_text(data, ocr=True):
     with tempfile.TemporaryDirectory() as tmp:
         pdf = f"{tmp}/d.pdf"
         open(pdf, "wb").write(data)
         t = subprocess.run(["pdftotext", "-layout", pdf, "-"], capture_output=True, timeout=120).stdout.decode("utf8", "replace")
-        if letters(t) >= GOOD:
+        if letters(t) >= GOOD or not ocr:
             return t, False
         subprocess.run(["pdftoppm", "-r", "200", "-gray", "-l", str(OCR_PAGES), pdf, f"{tmp}/p"], capture_output=True, timeout=300)
         pages = []
@@ -68,8 +69,12 @@ def one(hub, session, it):
         data = read_doc(hub, session, urls[d["key"]], d)
         ocr = False
         if data[:4] == b"%PDF":
-            text, ocr = pdf_text(data)
+            text, ocr = pdf_text(data, p.get("ocr", False))
             out = parse_text(text)
+            if letters(text) < GOOD and not ocr:
+                hub.metric("needs_ocr")
+                tried.append({"name": d.get("name"), "type": d.get("type"), "result": "needs_ocr", "ocr": False})
+                continue
         else:
             try:
                 out = parse_rows(sheet_rows(data))
